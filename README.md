@@ -1,4 +1,19 @@
-<!-- ANIMATED TERMINAL BANNER -->
+<!-- 
+  ╔══════════════════════════════════════════════════════════╗
+  ║  🎮 Nandini Mane — GitHub Profile README                ║
+  ║  Dark Theme · Animated · Snake Game · Real Projects      ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
+
+<!-- ═══════════════ CUSTOM HEADER BANNER ═══════════════ -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/main/assets/header-banner.jpg" alt="Nandini Mane - AI Engineer and Full Stack Developer" width="100%" />
+
+</div>
+
+<!-- ═══════════════ ANIMATED TERMINAL SVG ═══════════════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/main/dark.svg">
@@ -6,193 +21,246 @@
   <img alt="Nandini Mane — Terminal Banner" src="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/main/dark.svg" width="100%">
 </picture>
 
-<!-- TYPING ANIMATION -->
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 
 <div align="center">
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Computer+Engineering+Student+%F0%9F%8E%93;Building+AI+products+that+matter+%F0%9F%9A%80;Open+to+Placements+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%A4%96+AI+Engineer+%7C+Full+Stack+Developer;%F0%9F%8E%93+Computer+Engineering+Student;%F0%9F%9A%80+Building+AI+Products+That+Matter;%E2%9C%A8+Open+to+Placements+%26+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- SOCIAL BADGES -->
+<!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandini-mane-a59565257/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manenandini511@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Nandinimane511/nandini-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237C3AED.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Nandinimane511/nandini-portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandinimane511)
-[![Profile Views](https://komarev.com/ghpvc/?username=Nandinimane511&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/Nandinimane511)
+![Profile Views](https://komarev.com/ghpvc/?username=Nandinimane511&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 
 </div>
 
----
+<!-- ═══════════════ DIVIDER ═══════════════ -->
 
-## 🙋‍♀️ &nbsp;About Me
+<img src="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/main/assets/divider.jpg" width="100%" />
 
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║  ~/Nandinimane511  ❯  cat about.json                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   name       :  "Nandini Mane"                              ║
-║   location   :  "Mumbai, India 🇮🇳"                          ║
-║   education  :  "B.E. Computer Engineering"                  ║
-║   role       :  "AI Engineer · Full Stack Developer"         ║
-║   stack      :  ["React", "Java", "Python", "Node.js", "ML"] ║
-║   interests  :  ["LLMs", "RAG Pipelines", "Computer Vision"] ║
-║   status     :  "Open to Placements & Internships 🚀"        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+
+```js
+const nandini = {
+    name: "Nandini Mane",
+    location: "Mumbai, India 🇮🇳",
+    education: "B.E. Computer Engineering",
+    role: "AI Engineer · Full Stack Developer",
+    
+    skills: {
+        languages: ["Java", "Python", "JavaScript", "SQL", "C++"],
+        frontend:  ["React", "HTML5", "CSS3", "TailwindCSS"],
+        backend:   ["Node.js", "Express", "Spring Boot"],
+        databases: ["MySQL", "MongoDB", "Firebase"],
+        ai_ml:     ["TensorFlow", "PyTorch", "OpenCV", "OpenAI", "LangChain"],
+        tools:     ["Git", "GitHub Actions", "Docker", "VS Code", "Postman"]
+    },
+    
+    interests: ["LLMs", "RAG Pipelines", "Computer Vision", "DeepFake Detection"],
+    
+    currentStatus: "🚀 Open to Placements & Internships",
+    funFact: "I debug with console.log and I'm not ashamed 😄"
+};
 ```
 
----
+<!-- ═══════════════ DIVIDER ═══════════════ -->
+
+<img src="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/main/assets/divider.jpg" width="100%" />
+
+<!-- ═══════════════ SNAKE ANIMATION ═══════════════ -->
 
 ## 🐍 &nbsp;Watch the Snake Eat My Contributions
 
-> *Every commit I've ever made — devoured by the snake* 🎮
+> *The snake crawls through my actual GitHub contribution heatmap and devours every commit!* 🎮👾
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/output/github-snake.svg" />
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/output/github-snake-dark.svg" width="100%" />
+  <img alt="🐍 Snake eating my contributions" src="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
----
+> 💡 *The snake reads my real commit history and regenerates every day at midnight UTC*
+
+<!-- ═══════════════ DIVIDER ═══════════════ -->
+
+<img src="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/main/assets/divider.jpg" width="100%" />
+
+<!-- ═══════════════ STREAK STATS ═══════════════ -->
 
 ## 🔥 &nbsp;Streak Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nandinimane511&theme=tokyonight&hide_border=true&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nandinimane511&theme=tokyonight&hide_border=true&border_radius=10&card_width=900&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
 </div>
 
----
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
 
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nandinimane511&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandinimane511&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nandinimane511&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&icon_color=22D3EE&title_color=A78BFA&border_radius=10" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandinimane511&layout=compact&hide_border=true&theme=tokyonight&title_color=A78BFA&langs_count=8&border_radius=10" alt="Top Languages" />
 
 </div>
 
----
+<!-- ═══════════════ DIVIDER ═══════════════ -->
+
+<img src="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/main/assets/divider.jpg" width="100%" />
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
 
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-**Languages**
-
+### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Frontend**
-
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend & Databases**
-
+### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**AI / ML**
-
+### 🧠 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**Tools**
-
+### 🔧 Tools & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
----
+<!-- ═══════════════ DIVIDER ═══════════════ -->
+
+<img src="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/main/assets/divider.jpg" width="100%" />
+
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 
 ## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
-| &nbsp; | Project | Description | Stack | Link |
-|:---:|:--------|:------------|:------|:----:|
-| 🕵️ | **DeepDetect-DeepFake** | DeepFake detection using CNNs — classifies real vs AI-generated media | `Python` `PyTorch` `OpenCV` | [![Repo](https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github)](https://github.com/Nandinimane511/DeepDetect-DeepFake) |
-| 💊 | **New-MedStock** | Smart pharmacy inventory with alerts, billing & analytics dashboard | `React` `Java` `MySQL` | [![Repo](https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github)](https://github.com/Nandinimane511/New-MedStock) |
-| 🌐 | **nandini-portfolio** | Personal dev portfolio with animations & responsive design | `React` `JavaScript` `CSS` | [![Repo](https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github)](https://github.com/Nandinimane511/nandini-portfolio) |
-| 🏠 | **maison-velour** | Full-stack web application project | `JavaScript` | [![Repo](https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github)](https://github.com/Nandinimane511/maison-velour) |
-| ☕ | **Monday-Coffee-Expansion** | SQL data analysis project for coffee chain expansion strategy | `SQL` `Data Analysis` | [![Repo](https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github)](https://github.com/Nandinimane511/Monday-Coffee-Expansion-Project-P8) |
+<img src="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/main/assets/projects-showcase.jpg" alt="Projects Showcase" width="80%" />
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+| &nbsp; | Project | Description | Tech Stack | Link |
+|:---:|:--------|:------------|:-----------|:----:|
+| 🕵️ | **DeepDetect-DeepFake** | DeepFake detection using CNNs — classifies real vs AI-generated media with high accuracy | `Python` `PyTorch` `OpenCV` `CNN` | [![View](https://img.shields.io/badge/-View_Code-A78BFA?style=flat-square&logo=github&logoColor=white)](https://github.com/Nandinimane511/DeepDetect-DeepFake) |
+| 💊 | **New-MedStock** | Smart pharmacy inventory management with alerts, billing & analytics dashboard | `React` `Java` `MySQL` `Spring Boot` | [![View](https://img.shields.io/badge/-View_Code-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/Nandinimane511/New-MedStock) |
+| 🌐 | **nandini-portfolio** | Personal developer portfolio with animations, glassmorphism & responsive design | `React` `JavaScript` `CSS` | [![View](https://img.shields.io/badge/-View_Code-10B981?style=flat-square&logo=github&logoColor=white)](https://github.com/Nandinimane511/nandini-portfolio) |
+| 🏠 | **maison-velour** | Full-stack web application for interior design and home décor | `JavaScript` `Node.js` | [![View](https://img.shields.io/badge/-View_Code-F472B6?style=flat-square&logo=github&logoColor=white)](https://github.com/Nandinimane511/maison-velour) |
+| ☕ | **Monday-Coffee-Expansion** | SQL data analysis project — coffee chain expansion strategy using data insights | `SQL` `Data Analysis` | [![View](https://img.shields.io/badge/-View_Code-FBBF24?style=flat-square&logo=github&logoColor=black)](https://github.com/Nandinimane511/Monday-Coffee-Expansion-Project-P8) |
+
+</div>
+
+<!-- ═══════════════ DIVIDER ═══════════════ -->
+
+<img src="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/main/assets/divider.jpg" width="100%" />
+
+<!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
 
 ## 📈 &nbsp;Activity Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nandinimane511&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=9ece6a&area=true&area_color=7aa2f7&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nandinimane511&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=9ece6a&area=true&area_color=7C3AED&hide_border=true&radius=10&custom_title=Nandini's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<!-- ═══════════════ TROPHIES ═══════════════ -->
 
-## 🏆 &nbsp;Trophies
+## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nandinimane511&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nandinimane511&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
+<!-- ═══════════════ DIVIDER ═══════════════ -->
+
+<img src="https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/main/assets/divider.jpg" width="100%" />
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
 
 ## 💬 &nbsp;Let's Connect
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with developers!</b> If you want to chat about AI, Full Stack, or opportunities — <b>hit me up!</b></em>
+
+<br/><br/>
+
 > *"The best way to predict the future is to build it."*
 
 <br/>
 
-I'm actively looking for **internships** and **placement opportunities** in AI & Full Stack.
+I'm actively looking for **internships** and **placement opportunities** in AI & Full Stack Development.
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandini-mane-a59565257/)
-&nbsp;
+&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Drop_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manenandini511@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Nandinimane511/nandini-portfolio)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Nandinimane511/nandini-portfolio)
+
+<br/><br/>
+
+⭐ **If any of my projects helped you, consider leaving a star!**
 
 <br/>
 
-⭐ **If any of my projects helped you, consider leaving a star!**
+![Snake animation](https://raw.githubusercontent.com/Nandinimane511/Nandinimane511/output/github-snake-dark.svg)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Made with 💜 from Mumbai, India 🇮🇳</sub>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" />
+  
 </div>
